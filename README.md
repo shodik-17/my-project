@@ -1,1 +1,1 @@
-git clone https://github.com/username/my-awesome-project.git
+git clone https://github.com/username/my-project.git
