@@ -36,7 +36,7 @@ Saytning asosiy xususiyatlarini ta'riflash foydalidir. Bu foydalanuvchilarga say
 ## Litsenziya
 
 Bu loyiha [MIT Litsenziyasi](https://opensource.org/licenses/MIT) asosida litsenziyalangan.
-----------------------------------------------------------------
+
 ## API Hujjati
 
 Loyihaning API'lari quyidagi yo'nalishlarda ishlaydi:
@@ -45,4 +45,5 @@ Loyihaning API'lari quyidagi yo'nalishlarda ishlaydi:
 - **POST /api/order**: Yangi buyurtma yaratish
 
 ----------------------------------------------------------------
+## Logo
 ![Site Logo](https://example.com/logo.png)
